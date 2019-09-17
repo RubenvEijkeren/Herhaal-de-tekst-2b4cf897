@@ -1,14 +1,14 @@
 <<?php 
 	$txt = "Text in variable";
 
-	echo txt;
+	echo $txt;
 	echo "\n";
-	echo txt;
+	echo $txt;
 	echo "\n";
-	echo txt;
+	echo $txt;
 	echo "\n";
-	echo txt;
+	echo $txt;
 	echo "\n";
-	echo txt;
+	echo $txt;
 	echo "\n";
  ?>
